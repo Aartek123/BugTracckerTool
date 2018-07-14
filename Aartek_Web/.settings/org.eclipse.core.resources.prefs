@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/Aartek/Controller/LoginController.java=UTF-8
+encoding//src/main/java/com/Aartek/Controller/LogoutController.java=UTF-8
+encoding//src/main/java/com/Aartek/Controller/ProductController.java=UTF-8
+encoding//src/main/java/com/Aartek/Controller/RegistrationController.java=UTF-8
+encoding//src/main/java/com/Aartek/interceptor/EmailSpotInterceptor.java=UTF-8
+encoding//src/main/java/com/Aartek/interceptor/SessionInterceptor.java=UTF-8
+encoding//src/main/java/com/Aartek/interceptor/TransactionTimeInterceptor.java=UTF-8
+encoding//src/main/java/com/Aartek/validator/LoginValidator.java=UTF-8
+encoding//src/main/java/com/Aartek/validator/ProductValidator.java=UTF-8
+encoding//src/main/java/com/Aartek/validator/RegistrationValidator.java=UTF-8
+encoding//src/main/java/com/Aartek/validator/ValidationUtil.java=Cp1252
+encoding//src/main/webapp/WEB-INF/jsp/Product.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/Registration.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/login.jsp=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
+encoding/pom.xml=UTF-8
