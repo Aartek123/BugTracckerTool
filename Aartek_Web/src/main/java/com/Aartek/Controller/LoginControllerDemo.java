@@ -8,7 +8,8 @@ public class LoginControllerDemo {
 	System.out.println("advance changes");
 	System.out.println("final changes");//Manish Chaurasiya
 	System.out.println("final");//Manish Chaurasiya
-	
+	System.out.println("Simple2 changes");
+
 	}
 
 }
