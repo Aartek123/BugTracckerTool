@@ -6,6 +6,7 @@ public class LoginControllerDemo {
 	System.out.println("Login Demo");
 	System.out.println("Simple changes");// Rohit verma
 	System.out.println("advance changes");
+	System.out.println("Simple2 changes");
 	
 	}
 
