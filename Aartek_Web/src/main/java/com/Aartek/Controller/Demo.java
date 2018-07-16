@@ -15,6 +15,7 @@ public class Demo {
 		
 		System.out.println("Class Update Successfully 1");
 		
+		System.out.println("Class Update Successfully 2");
 		
 	}
 
