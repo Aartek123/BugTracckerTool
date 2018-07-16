@@ -6,6 +6,7 @@ public class TestController {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Test controller");
+		System.out.println("Demo for the changes");
 
 	}
 
