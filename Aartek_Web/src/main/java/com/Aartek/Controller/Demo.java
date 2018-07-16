@@ -7,7 +7,7 @@ public class Demo {
 
 		System.out.println("Demo Class");
 		
-		System.out.println("Class Upload");
+		System.out.println("Class Update");
 		
 	}
 
